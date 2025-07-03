@@ -63,7 +63,7 @@
     "bannerImage": "images/banner.gif",
     "profileDecoration": "images/decoration.png",
     "effects": {
-      "snow": true,
+      "rain": true,
       "card3D": true,
       "cursorFollower": true,
       "stars": true,
@@ -71,7 +71,7 @@
       "typewriter": true
     },
     "ui": {
-      "viewCount": 852,
+      "viewCount": 11907,
       "onlineStatus": true
     },
     "layout": "vertical"
